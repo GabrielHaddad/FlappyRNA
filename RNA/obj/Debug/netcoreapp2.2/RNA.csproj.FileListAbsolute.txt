@@ -1,0 +1,11 @@
+C:\Users\Gabriel P H\Documents\RNA\bin\Debug\netcoreapp2.2\RNA.deps.json
+C:\Users\Gabriel P H\Documents\RNA\bin\Debug\netcoreapp2.2\RNA.runtimeconfig.json
+C:\Users\Gabriel P H\Documents\RNA\bin\Debug\netcoreapp2.2\RNA.runtimeconfig.dev.json
+C:\Users\Gabriel P H\Documents\RNA\bin\Debug\netcoreapp2.2\RNA.dll
+C:\Users\Gabriel P H\Documents\RNA\bin\Debug\netcoreapp2.2\RNA.pdb
+C:\Users\Gabriel P H\Documents\RNA\obj\Debug\netcoreapp2.2\RNA.csprojAssemblyReference.cache
+C:\Users\Gabriel P H\Documents\RNA\obj\Debug\netcoreapp2.2\RNA.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel P H\Documents\RNA\obj\Debug\netcoreapp2.2\RNA.AssemblyInfoInputs.cache
+C:\Users\Gabriel P H\Documents\RNA\obj\Debug\netcoreapp2.2\RNA.AssemblyInfo.cs
+C:\Users\Gabriel P H\Documents\RNA\obj\Debug\netcoreapp2.2\RNA.dll
+C:\Users\Gabriel P H\Documents\RNA\obj\Debug\netcoreapp2.2\RNA.pdb
